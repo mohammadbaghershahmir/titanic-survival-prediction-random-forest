@@ -19,9 +19,6 @@ Key aspects include:
 ```
 data/
     titanic.csv               → Dataset file (add it manually)
-src/
-    Q22.py                    → Main implementation script
-requirements.txt              → Python dependencies
 ```
 
 ## ▶️ How to Run
