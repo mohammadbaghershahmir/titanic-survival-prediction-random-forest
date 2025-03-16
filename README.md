@@ -30,15 +30,12 @@ git clone https://github.com/mohammadbaghershahmir/titanic-survival-prediction-r
 
 2. Add the `titanic.csv` file into the `data/` folder.
 
-3. Install dependencies:
-```
-pip install -r requirements.txt
-```
+3. Install dependencies
 
 4. Run the script:
 ```bash
 cd src
-python Q22.py
+python main.py
 ```
 
 ## 📈 Sample Output
