@@ -34,7 +34,6 @@ git clone https://github.com/mohammadbaghershahmir/titanic-survival-prediction-r
 
 4. Run the script:
 ```bash
-cd src
 python main.py
 ```
 
